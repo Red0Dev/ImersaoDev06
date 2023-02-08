@@ -1,4 +1,4 @@
-# Tabela - Disputa de Xadrez!
+# Desafio 05 - Tabela de classificação
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Red0Dev/pen/qBygRLa](https://codepen.io/Red0Dev/pen/qBygRLa).
+URL para o Original: [https://codepen.io/Red0Dev/pen/qBygRLa](https://codepen.io/Red0Dev/pen/qBygRLa).
 

@@ -1,4 +1,4 @@
-# MyAluraList
+# Desafio 03 - AluraFlix
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Red0Dev/pen/ZEjVKwm](https://codepen.io/Red0Dev/pen/ZEjVKwm).
+URL para o Original: [https://codepen.io/Red0Dev/pen/ZEjVKwm](https://codepen.io/Red0Dev/pen/ZEjVKwm).
 

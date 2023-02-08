@@ -1,0 +1,80 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1639843885527-43b098a9661a?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU1Mzg1Njk&ixlib=rb-4.0.3&q=80");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  text-shadow: 1px 1px 1px black;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+  text-shadow: 1px 1px 1px black;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+body > img {
+  margin: 0 10px;
+}
+
+img {
+  max-height: 250px;
+}
+
+.form-wrapper input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  background-color: #fafafa;
+}
+
+button:hover {
+  transition-duration: 0.7s;
+  transition-timing-function: ease;
+  background-color: #ff6f00;
+}
+
+button {
+  background-color: #ffa000;
+  cursor: pointer;
+  color: #f6f6f6;
+  border: none;
+  border-radius: 5px;
+  width: 130px;
+  height: 38px;
+  margin-top: 10px;
+  transition-duration: 1s;
+  transition-timing-function: ease;
+}
+
+#conversao {
+  background-color: rgba(239, 184, 16, 0.235);
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}

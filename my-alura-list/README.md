@@ -1,4 +1,4 @@
-# My Alura List
+# Desafio 04 - AluraFlix 2.0
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Red0Dev/pen/oNMJEzO](https://codepen.io/Red0Dev/pen/oNMJEzO).
+URL para o Original: [https://codepen.io/Red0Dev/pen/oNMJEzO](https://codepen.io/Red0Dev/pen/oNMJEzO).
 

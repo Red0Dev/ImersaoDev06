@@ -1,7 +1,7 @@
 
 # ImersaoDev06 
- 
-A imersão Dev patentiada pela Alura é um projeto grátis que acontece uma vez ou mais todos os anos, na imersão sempre é proposto um projeto com vários desáfios após o fim de cada aula, não sendo diferente na imersão de número 06! Aqui estará listado todos os projetos e desafios colocados em prática durante a semana da imersão que aconteceu do fim de janeiro para o inicio de fevereiro. 
+
+> A imersão Dev patentiada pela Alura é um projeto grátis que acontece uma vez ou mais todos os anos, na imersão sempre é proposto um projeto com vários desáfios após o fim de cada aula, não sendo diferente na imersão de número 06! Aqui estará listado todos os projetos e desafios colocados em prática durante a semana da imersão que aconteceu do fim de janeiro para o inicio de fevereiro. 
 
 #### Lista dos projetos feitos por mim durante a Imersão Dev 06:
 
